@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/I'M SO HUNGRY - 2:24:20, 8.55 PM.wav-b205e6b80b0049bb06e8765a275fcc52.sample"
+
+[deps]
+
+source_file="res://Assets/I'M SO HUNGRY - 2:24:20, 8.55 PM.wav"
+dest_files=[ "res://.import/I'M SO HUNGRY - 2:24:20, 8.55 PM.wav-b205e6b80b0049bb06e8765a275fcc52.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
